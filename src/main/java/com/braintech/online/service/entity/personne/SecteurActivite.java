@@ -1,4 +1,4 @@
-package personneModuleV1;
+package com.braintech.online.service.entity.personne;
 
 
 public class SecteurActivite{

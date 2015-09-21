@@ -1,4 +1,4 @@
-package personneModuleV1;
+package com.braintech.online.service.entity.personne;
 
 import java.util.List;
 
@@ -6,7 +6,7 @@ import java.util.List;
 
 //Cette classe représente une adresse d'une personne
 // Exemple : ["ville":'Cotonou', "rue":"567 Zogbo", "quartier"  : "Zogbo"]
-public class Adress{
+public class Contact{
 
-  private List<AdressPam> adresse;
+  private List<ContactParam> contact;
 }

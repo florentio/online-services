@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.braintech.online.service.entity.personneModuleV2;
+package com.braintech.online.service.entity.personne;
 
 import java.util.List;
 
@@ -11,11 +11,11 @@ import java.util.List;
  *
  * @author Gildasdarex
  */
- /* Cette classe definit un paramètre qui référencie   la personne.
- Exemple : param = teint; value=Noir.
+ /* Cette classe definit un paramètre qui référencie l'adresse de la personne.
+ Exemple : parm = ville; value=Cotonou.
  */
-public class PersonMoraleParam {
-
+public class AdressParam {
+    //verifier que param existe bien dans la table Adresse param
     private String param;
     private String value;
 }

@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.braintech.online.service.entity.personneModuleV1;
+package com.braintech.online.service.entity.personne;
 
 /**
  *

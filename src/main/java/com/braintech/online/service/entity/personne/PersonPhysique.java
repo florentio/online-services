@@ -3,10 +3,11 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.braintech.online.service.entity.personneModuleV1;
+package com.braintech.online.service.entity.personne;
 
-import java.util.Date;
-import java.util.List
+import java.util.List;
+
+
 
 
 /**
@@ -18,7 +19,7 @@ public class PersonPhysique extends PersonPhysiqueBase{
  private List<PersonPhysiqueChild> childs;
  private PersonPhysiqueParent mother;
  private PersonPhysiqueParent father;
- private List<PersonPhysiqueWife> wifes;
+ private List<PersonPysiqueWife> wifes;
 
 
 }

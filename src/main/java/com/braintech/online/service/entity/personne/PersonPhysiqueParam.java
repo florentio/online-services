@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.braintech.online.service.entity.personneModuleV2;
+package com.braintech.online.service.entity.personne;
 
 import java.util.List;
 
@@ -14,7 +14,7 @@ import java.util.List;
  /* Cette classe definit un paramètre qui référencie   la personne.
  Exemple : param = teint; value=Noir.
  */
-public class PersonPhysiquePam {
+public class PersonPhysiqueParam {
 
     private String param;
     private String value;
